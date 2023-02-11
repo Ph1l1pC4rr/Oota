@@ -1,4 +1,4 @@
-# OTA - Optimized Online Trading Algorithm
+# OOTA - Optimized Online Trading Algorithm
 
 My personal project + ALL of my emotional investment. 
 
